@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\linux22core\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Admin\source\repos\linux22core\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Admin\source\repos\linux22core\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Admin\source\repos\linux22core\bin\Debug\netcoreapp2.2\linux22core.deps.json
+C:\Users\Admin\source\repos\linux22core\bin\Debug\netcoreapp2.2\linux22core.runtimeconfig.json
+C:\Users\Admin\source\repos\linux22core\bin\Debug\netcoreapp2.2\linux22core.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\linux22core\bin\Debug\netcoreapp2.2\linux22core.dll
+C:\Users\Admin\source\repos\linux22core\bin\Debug\netcoreapp2.2\linux22core.pdb
+C:\Users\Admin\source\repos\linux22core\obj\Debug\netcoreapp2.2\linux22core.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\linux22core\obj\Debug\netcoreapp2.2\linux22core.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\linux22core\obj\Debug\netcoreapp2.2\linux22core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\linux22core\obj\Debug\netcoreapp2.2\linux22core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\linux22core\obj\Debug\netcoreapp2.2\linux22core.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\linux22core\obj\Debug\netcoreapp2.2\linux22core.dll
+C:\Users\Admin\source\repos\linux22core\obj\Debug\netcoreapp2.2\linux22core.pdb
